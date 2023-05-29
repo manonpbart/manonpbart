@@ -1,4 +1,4 @@
-### Howdy 👋
+### 👋
 🔭 I’m a PhD student at Tulane University studying Machine Learning and Quantum Optics!
 
 <!--
