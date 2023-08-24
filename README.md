@@ -1,5 +1,5 @@
 ### 👋
-🔭 I’m a PhD student at Tulane University studying Machine Learning and Quantum Optics!
+🔭 I’m a PhD student at Tulane University studying Machine Learning and Quantum Optics! 
 
 <!--
 **manonpbart/manonpbart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
