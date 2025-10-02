@@ -1,5 +1,5 @@
 ### 👋
-🔭 I’m a PhD student at Tulane University studying Machine Learning and Quantum Optics! 
+🔭 My name is Manon Bart, I’m a PhD student at Tulane University studying the intersection of machine learning with classical and quantum optics. 
 
 <!--
 **manonpbart/manonpbart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
